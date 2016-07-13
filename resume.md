@@ -83,42 +83,43 @@ monitored 400 plus virtual servers and 30 plus physical servers.
 
 **_Company Impact:_**
 
-• I am currently one of four employees who know how deploy a "Cloud Pod", full
+
+* I am currently one of four employees who know how deploy a "Cloud Pod", full
   product supporting environment, from the ground up. Created and maintain
   documentation for processes and systems deployment of product support
   environments.
 
-• Enhance, debug, patch and deployed updates and bug-fixes to Python based
+* Enhance, debug, patch and deployed updates and bug-fixes to Python based
   hosting management system(HMS).
 
-• Created an Web based automation system to allow QA Engineers to recreate
+* Created an Web based automation system to allow QA Engineers to recreate
   and manage their own automated regressions runs.
 
-• Increased the QA automation run by 200% by deploying additional windows
+* Increased the QA automation run by 200% by deploying additional windows
   hosts and extended product environment to facilitate parallelism.
 
-• Created an updated Python based MySQL database management system to monitor
+* Created an updated Python based MySQL database management system to monitor
   and fix replication issues.
 
-• Became go-to guy for MySQL, Python, Git and MS Powershell information and
+* Became go-to guy for MySQL, Python, Git and MS Powershell information and
   issues.
 
-• Created Git repositories to manage source code of back-end automated e
+* Created Git repositories to manage source code of back-end automated e
   processes.
 
-• Created YUM repository to package and deploy RPMs to maintained systems.
+* Created YUM repository to package and deploy RPMs to maintained systems.
 
-• Created tools to aid in automation of system deployment using Python, Bash,
+* Created tools to aid in automation of system deployment using Python, Bash,
   Powershell, YUM and RPMS.
 
-• Created VMware ESXi reports using MS Windows Powershell and PowerCLI.
+* Created VMware ESXi reports using MS Windows Powershell and PowerCLI.
 
-• Created a sudo like C++ executable allowing fine grain access to product
+* Created a sudo like C++ executable allowing fine grain access to product
   files while separating access to operating system files. This allowed for
   audit-able access to product files while allowing QA Engineers convenient
   access.
 
-• Debug and solve network issues on firewalls, F5 LTMs and pod infrastructure.
+* Debug and solve network issues on firewalls, F5 LTMs and pod infrastructure.
 
 
 
@@ -139,38 +140,38 @@ configuration management staff in maintaining Python and PERL module support.
 
 **_Company Impact:_**
 
-• Enhanced coding standards for Python and Bash programming including code
+* Enhanced coding standards for Python and Bash programming including code
   installation and management in CVS.
 
-• Designed and reimplemented back-end ASP support systems.
+* Designed and reimplemented back-end ASP support systems.
 
-• Secured FTP and SFTP external client accounts with proper configuration and
+* Secured FTP and SFTP external client accounts with proper configuration and
   use of rssh and jailkit change root(chroot) systems.
 
-• Created and maintain automated enterprise billing reporting service.
+* Created and maintain automated enterprise billing reporting service.
 
-• Adapted Bugzilla, an open source software management system, to include a
+* Adapted Bugzilla, an open source software management system, to include a
   poster board. This included PERL/CGI and MySQL changes.
 
-• Aided in the acquisition of a new client by contributing to specialized
+* Aided in the acquisition of a new client by contributing to specialized
   implementation team. Created environment and manipulated production data to
   facilitate load and performance run of client data against new code base.
 
-• Created production environment for co-located third party software. This
+* Created production environment for co-located third party software. This
   included creation of user accounts, environment setup, log archival,
   automation of billing processing and full automation of cascading update/
   monitoring service for software product.
 
-• Repaired and configured applications on new customer test servers meeting
+* Repaired and configured applications on new customer test servers meeting
   strict client deadlines. Project would have been tabled for three months if
-   deadline was not met.
+  deadline was not met.
 
-• Started organized development and version management of rc startup scripts
-   for production services on production and internal test Linux servers.
+* Started organized development and version management of rc startup scripts
+  for production services on production and internal test Linux servers.
 
-• Provided training to technical support staff on back-end services and CVS.
+* Provided training to technical support staff on back-end services and CVS.
 
-• 3 years on 24-7 production server support.
+* 3 years on 24-7 production server support.
 
 
 
@@ -187,12 +188,12 @@ largest financial institutions in the United States.
 
 **_Company Impact:_**
 
-• Developed tools in PERL and Bash scripting languages for testing and
+* Developed tools in PERL and Bash scripting languages for testing and
   development which increased both job performance and efficiency.
 
-• Supported source changes to proprietary scripting language for MS SQL Server
+* Supported source changes to proprietary scripting language for MS SQL Server
   to Oracle database conversion. This included debugging errors found in
   stored procedures during conversion.
 
-• Became a respected resource with the department regarding system wide
+* Became a respected resource with the department regarding system wide
   technologies and behaviors.
