@@ -1,10 +1,10 @@
 ## Summary
 
-As a Systems Administrator/Engineer I have learned to embrace and thrive while
-solving new problems.  To solve problems, I have deployed and configured systems
-or built them from scratch. New situations outside of my expertise motivate me
-to develop and learn new and old technologies.  I am looking forward to
-tomorrow's problems as an opportunity to better myself today.
+As a Systems Administrator/Engineer with over decade of experience I have always
+thrived in solving new and complex problems. I have both managed and built a
+wide variety of cutting edge, mission critical technologies. I am excited by new
+situations outside of my expertise and am quick to embrace technologies new and
+old. For me, tomorrow's problems are an opportunity to better myself today.
 
 ## Work History
 
@@ -14,9 +14,10 @@ __Pulsara__
 __April 2015 – Present (1 year 4 months)                               Bozeman MT.__
 
 As a member of Pulsara, I automate application code and infrastructure
-deployments using principles of immutable infrastructure.  This includes machine
-image creation, firewalls, network, security and backups deployed using
-repeatable processes without manual server administrative actions.
+deployments using principles of immutable infrastructure. I specialize in
+creating automated, repeatable processes to eliminate traditionally manual
+systems automation tasks including but not limited to: machine image creation,
+firewall management, network operations, security, and data archival.
 
 
 **_Company Impact:_**
@@ -38,9 +39,9 @@ repeatable processes without manual server administrative actions.
   performance and monitor systems.  This includes creation of custom monitors
   and metrics.
 
-* Implemented OSSEC host based IDS system for security.  Designed deployment
-  using beanstalkd for automated deployment.  Notifications are presented in
-  slack versus traditional email system.
+* Implemented OSSEC host based IDS system for security.  Designed OSSEC
+  key exchange/registration process using beanstalkd for automated deployment.
+  Notifications are presented in Slack versus traditional email system.
 
 * Documented and streamlined creation of infrastructure and stack updates
   using AWS Cloud Formation and Google Deployment Manager.
@@ -51,8 +52,9 @@ repeatable processes without manual server administrative actions.
 * Updated TLS profiles on Elastic load balancers to allow only acceptable
   cipher sets.
 
-* Reimplemented Pulsara software and infrastructure on Google Cloud Platform
-  using deployment manager.
+* Rebuilt entire Pulsara software and infrastructure stack on Google Cloud
+  Platform using GCP Deployment Manager.  This included reworking cloud
+  provisioning into a single source template based provision system.
 
 * Wrote HIPAA compliant de-identified database extraction process for
   internal and customer audits.
@@ -60,9 +62,8 @@ repeatable processes without manual server administrative actions.
 * Reduce product latency by continually reviewing MySQL slow log for
   problem queries and queries not using indexes.
 
-* Engineered solution for database image rolling with zero to minimal
-  customer impact.
-
+* Engineered solution for database server image updates using rolling updates.
+  Rolling updates provide zero to minimal customer impact.
 
 
 
@@ -71,12 +72,13 @@ repeatable processes without manual server administrative actions.
 __ORACLE RightNow__
 __July 2009 – April 2015 (5 years 10 months)                           Bozeman MT.__
 
-Administer, engineer and deploy systems for development and quality assurance
-testing. Including firewalls, F5 LTMs, physical and virtual server environments.
-Deploy and test new architectures to support the RightNow CX product before
-promotion to production. Engineer and maintain automation systems and processes
-to allow for automated product testing. Deploy, maintain and monitor 400 plus
-virtual servers and 30 plus physical servers.
+As a SysAdmin for RightNow, I administered, engineered and deployed systems
+for development and quality assurance testing. This included firewalls, F5 LTMs,
+physical and virtual server environments.  I Deployed and tested new
+architectures to support the RightNow CX product before promotion to production.
+As a member of a team, I engineered and maintained automation systems and
+processes to allow for automated product testing. I deployed, maintained and
+monitored 400 plus virtual servers and 30 plus physical servers.
 
 
 **_Company Impact:_**
@@ -126,13 +128,13 @@ virtual servers and 30 plus physical servers.
 __Zoot Enterprises__
 __April 2006 – June 2009 (3 years 3 months)                            Bozeman MT.__
 
-Team lead for the Tools (processes and automation) department of Zoot's system's
-administration. Developed and maintained all Python, Bash and PERL back-end
-support systems for Zoot's credit decisioning engine. Responsible for design,
-implementation and fulfillment for analytics, statistics and monitoring of
-Zoot's ASP processes. Primary administrator for SSH/SFTP, Connect Direct, FTP,
-PGP and CVS on Linux systems. Worked with configuration management staff in
-maintaining Python and PERL module support.
+As Team lead for the Tools (processes and automation) group of Zoot's
+systems administration department, I developed and maintained all Python, Bash
+and PERL back-end support systems for Zoot's credit decisioning engine. I was
+responsible for design, implementation and fulfillment of analytics, statistics
+and monitoring of Zoot's ASP processes. I was the primary administrator for
+SSH/SFTP, Connect Direct, FTP, PGP and CVS on Linux systems. I worked with
+configuration management staff in maintaining Python and PERL module support.
 
 
 **_Company Impact:_**
@@ -177,10 +179,10 @@ maintaining Python and PERL module support.
 __Zoot Enterprises__
 __April 2005 – April 2006 (1 year 1 month)                             Bozeman MT.__
 
-Developed and maintained client software platforms using a proprietary scripting
-language for an instant credit decisioning engine. Provided consulting and
-troubleshooting for 7 of the 10 largest financial institutions in the United
-States.
+As a Systems Engineer for Zoot, I developed and maintained client software
+platforms using a proprietary scripting language for an instant credit
+decisioning engine. I provided consulting and troubleshooting for 7 of the 10
+largest financial institutions in the United States.
 
 
 **_Company Impact:_**
