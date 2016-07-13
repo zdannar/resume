@@ -131,11 +131,11 @@ __April 2006 – June 2009 (3 years 3 months)                            Bozeman
 
 As Team lead for the Tools (processes and automation) group of Zoot's
 systems administration department, I developed and maintained all Python, Bash
-and PERL back-end support systems for Zoot's credit decisioning engine. I was
+and Perl back-end support systems for Zoot's credit decisioning engine. I was
 responsible for design, implementation and fulfillment of analytics, statistics
 and monitoring of Zoot's ASP processes. I was the primary administrator for
 SSH/SFTP, Connect Direct, FTP, PGP and CVS on Linux systems. I worked with
-configuration management staff in maintaining Python and PERL module support.
+configuration management staff in maintaining Python and Perl module support.
 
 
 **_Company Impact:_**
@@ -151,7 +151,7 @@ configuration management staff in maintaining Python and PERL module support.
 * Created and maintain automated enterprise billing reporting service.
 
 * Adapted Bugzilla, an open source software management system, to include a
-  poster board. This included PERL/CGI and MySQL changes.
+  poster board. This included Perl/CGI and MySQL changes.
 
 * Aided in the acquisition of a new client by contributing to specialized
   implementation team. Created environment and manipulated production data to
@@ -188,7 +188,7 @@ largest financial institutions in the United States.
 
 **_Company Impact:_**
 
-* Developed tools in PERL and Bash scripting languages for testing and
+* Developed tools in Perl and Bash scripting languages for testing and
   development which increased both job performance and efficiency.
 
 * Supported source changes to proprietary scripting language for MS SQL Server
