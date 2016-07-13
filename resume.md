@@ -1,4 +1,4 @@
-Summary
+## Summary
 
 As a Systems Administrator/Engineer I have learned to embrace and thrive while
 solving new problems.  To solve problems, I have deployed and configured systems
@@ -6,21 +6,18 @@ or built them from scratch. New situations outside of my expertise motivate me
 to develop and learn new and old technologies.  I am looking forward to
 tomorrow's problems as an opportunity to better myself today.
 
+## Work History
+
 Senior System Administrator/DevOps
 Pulsara
 April 2015 – Present (1 year 4 months)Bozeman MT.
 
-Engineer, administer and automate application code and infrastructure using
-principles of immutable infrastructure.  This includes machine image creation,
-firewalls, network, security and backups deployed using repeatable processes
-with no on server administrative actions.
-
-As a member of pulsara, I automate application code and infrastructure
+As a member of Pulsara, I automate application code and infrastructure
 deployments using principles of immutable infrastructure.  This includes machine
 image creation, firewalls, network, security and backups deployed using
 repeatable processes without manual server administrative actions.
 
-Company Impact:
+__Company Impact:__
 
 * Replaced single point of failure database node with highly available
   Galera MySQL cluster split across AWS availability zones.
@@ -75,7 +72,7 @@ promotion to production. Engineer and maintain automation systems and processes
 to allow for automated product testing. Deploy, maintain and monitor 400 plus
 virtual servers and 30 plus physical servers.
 
-Company Impact:
+__Company Impact:__
 
 • I am currently one of four employees who know how deploy a "Cloud Pod", full
   product supporting environment, from the ground up. Created and maintain
@@ -125,7 +122,7 @@ Zoot's ASP processes. Primary administrator for SSH/SFTP, Connect Direct, FTP,
 PGP and CVS on Linux systems. Worked with configuration management staff in
 maintaining Python and PERL module support.
 
-Company Impact:
+__Company Impact:__
 
 • Enhanced coding standards for Python and Bash programming including code
   installation and management in CVS.
@@ -170,7 +167,7 @@ language for an instant credit decisioning engine. Provided consulting and
 troubleshooting for 7 of the 10 largest financial institutions in the United
 States.
 
-Company Impact:
+__Company Impact:__
 
 • Developed tools in PERL and Bash scripting languages for testing and
   development which increased both job performance and efficiency.
