@@ -100,7 +100,7 @@ monitored 400 plus virtual servers and 30 plus physical servers.
 * Increased the QA automation run by 200% by deploying additional windows
   hosts and extended product environment to facilitate parallelism.
 
-* Created a updated Python based MySQL database management system to monitor
+* Created an updated Python based MySQL database management system to monitor
   and fix replication issues.
 
 * Became go-to guy for MySQL, Python, Git and MS Powershell information and
