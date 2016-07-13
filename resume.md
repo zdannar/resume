@@ -48,8 +48,8 @@ firewall management, network operations, security, and data archival.
 * Documented and streamlined creation of infrastructure and stack updates
   using AWS Cloud Formation and Google Deployment Manager.
 
-* Updated production web server deployment to allow for close to zero
-  noticeable impact to customers.
+* Updated production web server deployment process to minimize impact for
+  customers and provide continuous up-time during production deployments.
 
 * Updated TLS profiles on Elastic load balancers to allow only acceptable
   cipher sets.
@@ -94,13 +94,13 @@ monitored 400 plus virtual servers and 30 plus physical servers.
 * Enhanced, debugged, patched and deployed updates and bug-fixes to Python based
   hosting management system(HMS).
 
-* Created an Web based automation system to allow QA Engineers to recreate
+* Created a Web based automation system to allow QA Engineers to recreate
   and manage their own automated regressions runs.
 
 * Increased the QA automation run by 200% by deploying additional windows
   hosts and extended product environment to facilitate parallelism.
 
-* Created an updated Python based MySQL database management system to monitor
+* Created a updated Python based MySQL database management system to monitor
   and fix replication issues.
 
 * Became go-to guy for MySQL, Python, Git and MS Powershell information and
@@ -121,7 +121,7 @@ monitored 400 plus virtual servers and 30 plus physical servers.
   audit-able access to product files while allowing QA Engineers convenient
   access.
 
-* Debuged and solved network issues on firewalls, F5 LTMs and pod infrastructure.
+* Debugged and solved network issues on firewalls, F5 LTMs and pod infrastructure.
 
 
 
