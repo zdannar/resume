@@ -1,7 +1,7 @@
 ## Summary
 
-As a Systems Administrator/Engineer with over a decade of experience I have
-always thrived solving new and complex problems. I have managed and built a
+As a Systems Administrator and Systems Engineer with over a decade of experience
+I have always thrived solving new and complex problems. I have managed and built a
 wide variety of cutting edge and mission critical technologies. I am excited
 by new situations outside of my expertise and am quick to embrace technologies
 new and old. For me, tomorrow's problems are an opportunity to better myself
@@ -17,8 +17,8 @@ __April 2015 – Present (1 year 4 months)                               Bozeman
 
 As a member of Pulsara, I automate application code and infrastructure
 deployments using principles of immutable infrastructure. I specialize in
-creating automated, repeatable processes to eliminate traditionally manual
-systems automation tasks including but not limited to: machine image creation,
+creating repeatable processes to eliminate traditionally manual systems
+automation tasks including but not limited to: machine image creation,
 firewall management, network operations, security, and data archival.
 
 
@@ -27,7 +27,7 @@ firewall management, network operations, security, and data archival.
 * Replaced single point of failure database node with highly available
   Galera MySQL cluster split across AWS availability zones.
 
-* Split web servers and utilty traffic across AWS availability zones to
+* Split web servers and utility traffic across AWS availability zones to
   improve high availability.
 
 * Designed and implemented failover procedures and automation for primary
