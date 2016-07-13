@@ -8,16 +8,17 @@ tomorrow's problems as an opportunity to better myself today.
 
 ## Work History
 
-Senior System Administrator/DevOps
-Pulsara
-April 2015 – Present (1 year 4 months)Bozeman MT.
+__Senior System Administrator/DevOps__
+
+####Pulsara
+#####April 2015 – Present (1 year 4 months)                               Bozeman MT.
 
 As a member of Pulsara, I automate application code and infrastructure
 deployments using principles of immutable infrastructure.  This includes machine
 image creation, firewalls, network, security and backups deployed using
 repeatable processes without manual server administrative actions.
 
-__Company Impact:__
+**Company Impact:**
 
 * Replaced single point of failure database node with highly available
   Galera MySQL cluster split across AWS availability zones.
@@ -61,9 +62,10 @@ __Company Impact:__
 * Engineered solution for database image rolling with zero to minimal
   customer impact.
 
-Systems Administrator
+__Systems Administrator__
+
 ORACLE RightNow
-July 2009 – April 2015 (5 years 10 months)Bozeman MT.
+July 2009 – April 2015 (5 years 10 months)                           Bozeman MT.
 
 Administer, engineer and deploy systems for development and quality assurance
 testing. Including firewalls, F5 LTMs, physical and virtual server environments.
@@ -72,7 +74,7 @@ promotion to production. Engineer and maintain automation systems and processes
 to allow for automated product testing. Deploy, maintain and monitor 400 plus
 virtual servers and 30 plus physical servers.
 
-__Company Impact:__
+**Company Impact:**
 
 • I am currently one of four employees who know how deploy a "Cloud Pod", full
   product supporting environment, from the ground up. Created and maintain
@@ -111,9 +113,11 @@ __Company Impact:__
 
 • Debug and solve network issues on firewalls, F5 LTMs and pod infrastructure.
 
-Systems Administrator/Engineer
+__Systems Administrator/Engineer__
+
 Zoot Enterprises
-April 2006 – June 2009 (3 years 3 months)Bozeman MT.
+April 2006 – June 2009 (3 years 3 months)                            Bozeman MT.
+
 Team lead for the Tools (processes and automation) department of Zoot's system's
 administration. Developed and maintained all Python, Bash and PERL back-end
 support systems for Zoot's credit decisioning engine. Responsible for design,
@@ -122,7 +126,7 @@ Zoot's ASP processes. Primary administrator for SSH/SFTP, Connect Direct, FTP,
 PGP and CVS on Linux systems. Worked with configuration management staff in
 maintaining Python and PERL module support.
 
-__Company Impact:__
+**Company Impact:**
 
 • Enhanced coding standards for Python and Bash programming including code
   installation and management in CVS.
@@ -158,16 +162,16 @@ __Company Impact:__
 • 3 years on 24-7 production server support.
 
 
-Systems Engineer
+__Systems Engineer__
 Zoot Enterprises
-April 2005 – April 2006 (1 year 1 month)Bozeman MT.
+April 2005 – April 2006 (1 year 1 month)                             Bozeman MT.
 
 Developed and maintained client software platforms using a proprietary scripting
 language for an instant credit decisioning engine. Provided consulting and
 troubleshooting for 7 of the 10 largest financial institutions in the United
 States.
 
-__Company Impact:__
+**Company Impact:**
 
 • Developed tools in PERL and Bash scripting languages for testing and
   development which increased both job performance and efficiency.
