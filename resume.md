@@ -18,7 +18,7 @@ deployments using principles of immutable infrastructure.  This includes machine
 image creation, firewalls, network, security and backups deployed using
 repeatable processes without manual server administrative actions.
 
-**Company Impact:**
+*Company Impact:*
 
 * Replaced single point of failure database node with highly available
   Galera MySQL cluster split across AWS availability zones.
@@ -64,8 +64,8 @@ repeatable processes without manual server administrative actions.
 
 __Systems Administrator__
 
-ORACLE RightNow
-July 2009 – April 2015 (5 years 10 months)                           Bozeman MT.
+####ORACLE RightNow
+#####July 2009 – April 2015 (5 years 10 months)                           Bozeman MT.
 
 Administer, engineer and deploy systems for development and quality assurance
 testing. Including firewalls, F5 LTMs, physical and virtual server environments.
@@ -74,7 +74,7 @@ promotion to production. Engineer and maintain automation systems and processes
 to allow for automated product testing. Deploy, maintain and monitor 400 plus
 virtual servers and 30 plus physical servers.
 
-**Company Impact:**
+*Company Impact:*
 
 • I am currently one of four employees who know how deploy a "Cloud Pod", full
   product supporting environment, from the ground up. Created and maintain
@@ -115,8 +115,8 @@ virtual servers and 30 plus physical servers.
 
 __Systems Administrator/Engineer__
 
-Zoot Enterprises
-April 2006 – June 2009 (3 years 3 months)                            Bozeman MT.
+####Zoot Enterprises
+#####April 2006 – June 2009 (3 years 3 months)                            Bozeman MT.
 
 Team lead for the Tools (processes and automation) department of Zoot's system's
 administration. Developed and maintained all Python, Bash and PERL back-end
@@ -126,7 +126,7 @@ Zoot's ASP processes. Primary administrator for SSH/SFTP, Connect Direct, FTP,
 PGP and CVS on Linux systems. Worked with configuration management staff in
 maintaining Python and PERL module support.
 
-**Company Impact:**
+*Company Impact:*
 
 • Enhanced coding standards for Python and Bash programming including code
   installation and management in CVS.
@@ -163,15 +163,15 @@ maintaining Python and PERL module support.
 
 
 __Systems Engineer__
-Zoot Enterprises
-April 2005 – April 2006 (1 year 1 month)                             Bozeman MT.
+####Zoot Enterprises
+#####April 2005 – April 2006 (1 year 1 month)                             Bozeman MT.
 
 Developed and maintained client software platforms using a proprietary scripting
 language for an instant credit decisioning engine. Provided consulting and
 troubleshooting for 7 of the 10 largest financial institutions in the United
 States.
 
-**Company Impact:**
+*Company Impact:*
 
 • Developed tools in PERL and Bash scripting languages for testing and
   development which increased both job performance and efficiency.
