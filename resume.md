@@ -1,11 +1,12 @@
 ## Summary
 
 As a Systems Administrator/Engineer with over a decade of experience I have
-always thrived in solving new and complex problems. I have both managed and
-built a wide variety of cutting edge, mission critical technologies. I am
-excited by new situations outside of my expertise and am quick to embrace
-technologies new and old. For me, tomorrow's problems are an opportunity to
-better myself today.
+always thrived solving new and complex problems. I have managed and built a
+wide variety of cutting edge and mission critical technologies. I am excited
+by new situations outside of my expertise and am quick to embrace technologies
+new and old. For me, tomorrow's problems are an opportunity to better myself
+today.
+
 
 ## Work History
 
@@ -90,7 +91,7 @@ monitored 400 plus virtual servers and 30 plus physical servers.
   documentation for processes and systems deployment of product support
   environments.
 
-* Enhance, debug, patch and deployed updates and bug-fixes to Python based
+* Enhanced, debugged, patched and deployed updates and bug-fixes to Python based
   hosting management system(HMS).
 
 * Created an Web based automation system to allow QA Engineers to recreate
