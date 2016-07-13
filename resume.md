@@ -8,10 +8,10 @@ tomorrow's problems as an opportunity to better myself today.
 
 ## Work History
 
-__Senior System Administrator/DevOps__
+###Senior System Administrator/DevOps###
 
-###Pulsara
-####April 2015 – Present (1 year 4 months)                               Bozeman MT.
+__Pulsara__
+__April 2015 – Present (1 year 4 months)                               Bozeman MT.__
 
 As a member of Pulsara, I automate application code and infrastructure
 deployments using principles of immutable infrastructure.  This includes machine
@@ -67,10 +67,10 @@ repeatable processes without manual server administrative actions.
 
 
 
-__Systems Administrator__
+###Systems Administrator
 
-###ORACLE RightNow
-####July 2009 – April 2015 (5 years 10 months)                           Bozeman MT.
+__ORACLE RightNow__
+__July 2009 – April 2015 (5 years 10 months)                           Bozeman MT.__
 
 Administer, engineer and deploy systems for development and quality assurance
 testing. Including firewalls, F5 LTMs, physical and virtual server environments.
@@ -122,10 +122,10 @@ virtual servers and 30 plus physical servers.
 
 
 
-__Systems Administrator/Engineer__
+###Systems Administrator/Engineer
 
-###Zoot Enterprises
-####April 2006 – June 2009 (3 years 3 months)                            Bozeman MT.
+__Zoot Enterprises__
+__April 2006 – June 2009 (3 years 3 months)                            Bozeman MT.__
 
 Team lead for the Tools (processes and automation) department of Zoot's system's
 administration. Developed and maintained all Python, Bash and PERL back-end
@@ -174,9 +174,9 @@ maintaining Python and PERL module support.
 
 
 
-__Systems Engineer__
-###Zoot Enterprises
-####April 2005 – April 2006 (1 year 1 month)                             Bozeman MT.
+###Systems Engineer
+__Zoot Enterprises__
+__April 2005 – April 2006 (1 year 1 month)                             Bozeman MT.__
 
 Developed and maintained client software platforms using a proprietary scripting
 language for an instant credit decisioning engine. Provided consulting and
