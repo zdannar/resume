@@ -18,7 +18,7 @@ __April 2015 – Present (1 year 4 months)                               Bozeman
 As a member of Pulsara, I automate application code and infrastructure
 deployments using principles of immutable infrastructure. I specialize in
 creating repeatable processes to eliminate traditionally manual systems
-automation tasks including but not limited to: machine image creation,
+adminstration tasks including but not limited to: machine image creation,
 firewall management, network operations, security, and data archival.
 
 
@@ -118,7 +118,7 @@ monitored 400 plus virtual servers and 30 plus physical servers.
 
 * Created a sudo like C++ executable allowing fine grain access to product
   files while separating access to operating system files. This allowed for
-  audit-able access to product files while allowing QA Engineers convenient
+  auditable access to product files while allowing QA Engineers convenient
   access.
 
 * Debugged and solved network issues on firewalls, F5 LTMs and pod infrastructure.
