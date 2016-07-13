@@ -20,7 +20,7 @@ repeatable processes without manual server administrative actions.
 
 
 
-*Company Impact:*
+_*Company Impact:*_
 
 * Replaced single point of failure database node with highly available
   Galera MySQL cluster split across AWS availability zones.
@@ -80,7 +80,7 @@ to allow for automated product testing. Deploy, maintain and monitor 400 plus
 virtual servers and 30 plus physical servers.
 
 
-*Company Impact:*
+_*Company Impact:*_
 
 • I am currently one of four employees who know how deploy a "Cloud Pod", full
   product supporting environment, from the ground up. Created and maintain
@@ -136,7 +136,7 @@ PGP and CVS on Linux systems. Worked with configuration management staff in
 maintaining Python and PERL module support.
 
 
-*Company Impact:*
+_*Company Impact:*_
 
 • Enhanced coding standards for Python and Bash programming including code
   installation and management in CVS.
@@ -184,7 +184,7 @@ troubleshooting for 7 of the 10 largest financial institutions in the United
 States.
 
 
-*Company Impact:*
+_*Company Impact:*_
 
 • Developed tools in PERL and Bash scripting languages for testing and
   development which increased both job performance and efficiency.
