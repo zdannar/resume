@@ -18,7 +18,7 @@ __April 2015 – Present (1 year 4 months)                               Bozeman
 As a member of Pulsara, I automate application code and infrastructure
 deployments using principles of immutable infrastructure. I specialize in
 creating repeatable processes to eliminate traditionally manual systems
-adminstration tasks including but not limited to: machine image creation,
+administration tasks including but not limited to: machine image creation,
 firewall management, network operations, security, and data archival.
 
 
