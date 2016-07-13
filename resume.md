@@ -184,7 +184,7 @@ troubleshooting for 7 of the 10 largest financial institutions in the United
 States.
 
 
-_*Company Impact:*_
+**_Company Impact:_**
 
 • Developed tools in PERL and Bash scripting languages for testing and
   development which increased both job performance and efficiency.
