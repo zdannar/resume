@@ -1,10 +1,11 @@
 ## Summary
 
-As a Systems Administrator/Engineer with over decade of experience I have always
-thrived in solving new and complex problems. I have both managed and built a
-wide variety of cutting edge, mission critical technologies. I am excited by new
-situations outside of my expertise and am quick to embrace technologies new and
-old. For me, tomorrow's problems are an opportunity to better myself today.
+As a Systems Administrator/Engineer with over a decade of experience I have
+always thrived in solving new and complex problems. I have both managed and
+built a wide variety of cutting edge, mission critical technologies. I am
+excited by new situations outside of my expertise and am quick to embrace
+technologies new and old. For me, tomorrow's problems are an opportunity to
+better myself today.
 
 ## Work History
 
@@ -84,8 +85,8 @@ monitored 400 plus virtual servers and 30 plus physical servers.
 **_Company Impact:_**
 
 
-* I am currently one of four employees who know how deploy a "Cloud Pod", full
-  product supporting environment, from the ground up. Created and maintain
+* I was one of four employees who know how deploy a "Cloud Pod", full
+  product supporting environment, from the ground up. Created and maintained
   documentation for processes and systems deployment of product support
   environments.
 
@@ -119,7 +120,7 @@ monitored 400 plus virtual servers and 30 plus physical servers.
   audit-able access to product files while allowing QA Engineers convenient
   access.
 
-* Debug and solve network issues on firewalls, F5 LTMs and pod infrastructure.
+* Debuged and solved network issues on firewalls, F5 LTMs and pod infrastructure.
 
 
 
@@ -131,11 +132,12 @@ __April 2006 – June 2009 (3 years 3 months)                            Bozeman
 
 As Team lead for the Tools (processes and automation) group of Zoot's
 systems administration department, I developed and maintained all Python, Bash
-and Perl back-end support systems for Zoot's credit decisioning engine. I was
-responsible for design, implementation and fulfillment of analytics, statistics
-and monitoring of Zoot's ASP processes. I was the primary administrator for
-SSH/SFTP, Connect Direct, FTP, PGP and CVS on Linux systems. I worked with
-configuration management staff in maintaining Python and Perl module support.
+and Perl back-end support systems for Zoot's credit decisioning engine and loan
+origination platform. I was responsible for design, implementation and
+fulfillment of analytics, statistics and monitoring of Zoot's ASP processes. I
+was the primary administrator for SSH/SFTP, Connect Direct, FTP, PGP and CVS on
+Linux systems. I worked with configuration management staff in maintaining
+Python and Perl module support.
 
 
 **_Company Impact:_**
